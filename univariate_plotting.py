@@ -22,4 +22,12 @@ reviews['points'].values().sort_index().plot.line()
 #  Area charts are just line charts with the bottom colored, usually for visual representation
 reviews['points'].value_counts().sort_index().plot.area()
 
+#  Exploring histograms
+reviews[reviews['price'] < 200]['price'].plot.hist()
+#  Histograms, essentially, are just bar graphs with it's data split into intervals
+#  Histograms, though, don't work well with skewed data, thus the '< 200' preprocessor
+
+reviews[reviews['price'] > 1500]
+reviews['points'].plot.hist()
+
 
