@@ -9,6 +9,7 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 ## Topics
 * Univariate plotting
 * Bivariate plotting
+<img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/bivariate%20plots.PNG" > </img>
 * Plot Styling, and subplots
 * Plotting with Seaborn
 * Faceting with Seaborn
