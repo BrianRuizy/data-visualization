@@ -6,13 +6,13 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 [Seaborn](https://seaborn.pydata.org/), 
 [Plotly](https://plot.ly/)
 
-## Topics
-* Univariate plotting
 
+### Univariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/univariate%20plots.PNG" width="60%"> </img>
-* Bivariate plotting
 
+### Bivariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/bivariate%20plots.PNG" width="60%"></img>
+
 * Plot Styling, and subplots
 * Plotting with Seaborn
 * Faceting with Seaborn
