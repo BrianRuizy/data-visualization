@@ -1,4 +1,4 @@
-# data-visualization
+# data-visualization 📈📊
 Data visualization demonstration using the power of Python + Pandas
 
 Tools include: [Pandas](https://pandas.pydata.org/), 
