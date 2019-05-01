@@ -9,3 +9,8 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 ## Topics
 * Univariate plotting
 * Bivariate plotting
+* Plot Styling, and subplots
+* Plotting with Seaborn
+* Faceting with Seaborn
+* Multivariable plotting
+* Plotting with Plotly
