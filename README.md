@@ -13,8 +13,8 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 ### Bivariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/bivariate%20plots.PNG" width="60%"></img>
 
-* Plot Styling, and subplots
-* Plotting with Seaborn
-* Faceting with Seaborn
-* Multivariable plotting
-* Plotting with Plotly
+### Plot Styling, and subplots
+### Plotting with Seaborn
+### Faceting with Seaborn
+### Multivariable plotting
+### Plotting with Plotly
