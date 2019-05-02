@@ -1,5 +1,5 @@
 # data-visualization 📈📊
-Data visualization demonstration using the power of Python + Pandas
+Data visualization demo using the power of Python + Pandas
 
 Tools include: [Pandas](https://pandas.pydata.org/), 
 [Matplotlib](https://matplotlib.org/), 
