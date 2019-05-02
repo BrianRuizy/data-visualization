@@ -7,14 +7,16 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 [Plotly](https://plot.ly/)
 
 
-### Univariate plotting
+### -Univariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/univariate%20plots.PNG" width="60%"> </img>
 
-### Bivariate plotting
+### -Bivariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/bivariate%20plots.PNG" width="60%"></img>
 
-### Plot Styling
-### Plotting with Seaborn
-### Faceting with Seaborn
-### Multivariable plotting
-### Plotting with Plotly
+### -Plot Styling
+### -Plotting with Seaborn
+<img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/seaborn%20plotting.PNG" width="60%"></img>
+
+### -Faceting with Seaborn
+### -Multivariable plotting
+### -Plotting with Plotly
