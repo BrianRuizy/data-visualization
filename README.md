@@ -3,6 +3,7 @@ Data visualization demonstration using the power of Python.
 
 ## About
 This repository is purely educational. Most of the implementation files are simple scripts which showcase each type of plot and what you can achieve to display with them. 
+
 Tools include: [Pandas](https://pandas.pydata.org/), 
 [Matplotlib](https://matplotlib.org/), 
 [Seaborn](https://seaborn.pydata.org/), 
