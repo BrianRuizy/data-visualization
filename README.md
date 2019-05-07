@@ -8,7 +8,7 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 [Seaborn](https://seaborn.pydata.org/), 
 [Plotly](https://plot.ly/)
 
-## The Plots...
+## Sections / files
 ### Univariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/univariate%20plots.PNG" width="60%"> </img>
 
