@@ -1,5 +1,5 @@
 # data-visualization 📈📊
-Data visualization demonstration using the power of Python + (Pandas, Seaborn, Plotly)
+Data visualization demonstration using the power of Python.
 
 ## About
 This repository is purely educational. Most of the implementation files are simple scripts which showcase each type of plot and what you can achieve to display with them. 
