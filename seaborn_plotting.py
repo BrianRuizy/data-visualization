@@ -47,3 +47,12 @@ plt.show(sns.violinplot(
 
 #  ----------------------------------------------------------------------------------------------
 
+pokemon = pd.read_csv("Pokemon.csv", index_col=0)
+plt.show(pokemon.head())
+
+plt.show(sns.countplot(pokemon['Generation']))
+plt.show(sns.distplot(pokemon['HP'], kde=True))
+plt.show(sns.jointplot(x='Attack', y='Defense', data=pokemon))
+plt.show(sns.kdeplot(pokemon['HP'], pokemon['Attack']))
+plt.show(sns.boxplot(x='Legendary', y='Attack', data = pokemon))
+plt.show(sns.violinplot(x='Legendary', y='Attack', data=pokemon))
