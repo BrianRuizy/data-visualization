@@ -21,5 +21,6 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/seaborn%20plotting.PNG" width="60%"></img>
 
 ### Faceting with Seaborn
+<img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/seaborn%20faceting.PNG" width="60%"></img>
 ### Multivariable plotting
 ### Plotting with Plotly
