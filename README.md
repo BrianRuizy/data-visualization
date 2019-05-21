@@ -1,4 +1,4 @@
-# data-visualization 📈📊
+# Data Visualization 📈📊
 Data visualization demonstration using the power of Python.
 This repo is solely educational.
 
