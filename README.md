@@ -11,9 +11,9 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 [Plotly](https://plot.ly/)
 
 ## The Plots...
-<h3 align="center">1. Univariate plotting
+### 1. Univariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/univariate%20plots.PNG" width="60%">
-</h3>
+
 ### 2. Bivariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/bivariate%20plots.PNG" width="60%"></img>
 
