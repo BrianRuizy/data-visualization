@@ -1,6 +1,6 @@
 # Data Visualization 📈📊
 Data visualization demonstration using the power of Python.
-This repo is solely educational.
+This repo. is solely educational.
 
 ## About
 Most of the implementation files are simple scripts which showcase each type of plot and what you can achieve to display with them. Although, there are more powerful BI tools for data exploration Python has been proven to be optimal at times when reproducibility is significant. Also, Python is many times cheaper to implement, thus the most cost-efficient!
