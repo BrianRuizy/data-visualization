@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 pd.set_option('max_columns', None)
@@ -18,3 +19,13 @@ footballers = footballers.assign(Value=footballers['Value (M)'],
                                  Position=footballers['Preferred Positions'].str.split().str[0])
 
 print(footballers.head())
+
+# We will be adding more visual variables to help perceptually distinguish data elements
+# Starting with multivarite scatterplot
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+plt.show(sns.lmplot(x='Value', y='Overall', hue ='Position',
+           data = footballers.loc[footballers['Position'].isin(['ST', 'CM', 'CB'])],
+           fit_reg= False))
