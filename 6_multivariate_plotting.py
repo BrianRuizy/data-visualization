@@ -29,3 +29,8 @@ import matplotlib.pyplot as plt
 plt.show(sns.lmplot(x='Value', y='Overall', hue ='Position',
            data = footballers.loc[footballers['Position'].isin(['ST', 'CM', 'CB'])],
            fit_reg= False))
+
+sns.lmplot(x='Value', y='Overall', markers=['o', 'x', '*'], hue='Position',
+           data=footballers.loc[footballers['Position'].isin(['ST', 'RW', 'LW'])],
+           fit_reg=False
+          )
