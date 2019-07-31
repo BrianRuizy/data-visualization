@@ -30,6 +30,7 @@ plt.show(sns.lmplot(x='Value', y='Overall', hue ='Position',
            data = footballers.loc[footballers['Position'].isin(['ST', 'CM', 'CB'])],
            fit_reg= False))
 
+# Another example of a visual variable is 'shape', which controls marker shapes to help differentiate
 sns.lmplot(x='Value', y='Overall', markers=['o', 'x', '*'], hue='Position',
            data=footballers.loc[footballers['Position'].isin(['ST', 'RW', 'LW'])],
            fit_reg=False
