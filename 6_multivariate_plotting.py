@@ -25,7 +25,7 @@ print(footballers.head())
 
 import seaborn as sns
 import matplotlib.pyplot as plt
-'''
+
 # comparing value / wage to overall rating of 3 different player positions [st, cm, cb]
 # using visual variable of 'color' to distinguish differences
 plt.show(sns.lmplot(x='Value', y='Overall', hue ='Position',
@@ -38,7 +38,7 @@ sns.lmplot(x='Value', y='Overall', markers=['o', 'x', '*'], hue='Position',
            data=footballers.loc[footballers['Position'].isin(['ST', 'RW', 'LW'])],
            fit_reg=False
           )
-'''
+
 # A good comparison demonstrative plot is the 'grouped box plot'
 # I.e. we want to explore to find what position players score higher in 'aggression' attribute
 
@@ -62,3 +62,16 @@ f = (footballers.loc[:, ['Acceleration', 'Aggression', 'Agility', 'Balance', 'Ba
 plt.show(sns.heatmap(f, annot = True))
 # Here we can now see correlations between different attributes and their
 
+# Parallel coordinates - another way of visualizing data of many different variables
+from pandas.plotting import parallel_coordinates
+
+f = (footballers.iloc[:, 12:17]
+                .loc[footballers['Position'].isin(['ST', 'CB'])]
+                .applymap(lambda v: int(v) if str.isdecimal(v) else np.nan)
+                .dropna()
+     )
+
+f['Position'] = footballers['Position']
+f = f.sample(200)
+
+plt.show(parallel_coordinates(f, 'Position', color = ('royalblue', 'mediumseagreen')))
