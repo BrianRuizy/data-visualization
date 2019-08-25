@@ -1,6 +1,13 @@
-# Data Visualization 📈📊
-Data visualization demonstration using the power of Python.
+<h1 align="center">
+    <img alt="Lumen" title="Lumen" src="https://github.com/BrianRuizy/portfolio-website-3.0/blob/master/Misc/BR%20logoTrans.png" width="100"> </br>
+    Data Visualization 📈📊
+</h1>
+
+<h4 align="center">
+Data visualization demonstration using the power of Python. </br>
 This repo. is solely educational.
+</h4>
+
 
 ## About
 Most of the implementation files are simple scripts which showcase each type of plot and what you can achieve to display with them. Although, there are more powerful BI tools for data exploration Python has been proven to be optimal at times when reproducibility is significant. Also, Python is many times cheaper to implement, thus the most cost-efficient!
