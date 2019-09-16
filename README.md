@@ -17,6 +17,13 @@ Tools include: [Pandas](https://pandas.pydata.org/),
 [Seaborn](https://seaborn.pydata.org/), 
 [Plotly](https://plot.ly/)
 
+## Usage
+```Python 
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
 ## The Plots...
 ### 1. Univariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/univariate%20plots.PNG" width="60%">
