@@ -39,3 +39,6 @@ import seaborn as sns
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/seaborn%20faceting.PNG" width="60%"></img>
 ### 6. Multivariable plotting
 ### 7. Plotting with Plotly
+
+------
+#### ©[Brian Ruiz](https://github.com/BrianRuizy)
