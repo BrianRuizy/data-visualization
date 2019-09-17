@@ -41,4 +41,4 @@ import seaborn as sns
 ### 7. Plotting with Plotly
 
 ------
-#### ©[Brian Ruiz](https://github.com/BrianRuizy)
+#### © [Brian Ruiz](https://github.com/BrianRuizy)
