@@ -26,8 +26,8 @@ import seaborn as sns
 
 ## The Plots...
 ### 1. Univariate plotting
-<img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/univariate%20plots.PNG" 
-href="https://github.com/BrianRuizy/data-visualization/blob/master/1_univariate_plotting.py" width="60%">
+<img href="https://github.com/BrianRuizy/data-visualization/blob/master/1_univariate_plotting.py" target="_blank" src="https://github.com/BrianRuizy/data-visualization/blob/master/images/univariate%20plots.PNG"
+ width="60%">
 
 ### 2. Bivariate plotting
 <img src="https://github.com/BrianRuizy/data-visualization/blob/master/images/bivariate%20plots.PNG" width="60%"></img>
